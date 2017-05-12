@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Voucher+Paper_Wallet/Voucher+Paper_Wallet.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Voucher+Paper_Wallet/MainForm.cs">
+    <Files>
+      <File FileName="Voucher+Paper_Wallet/MainForm.cs" Line="1" Column="1" />
+      <File FileName="Voucher+Paper_Wallet/MainForm.Designer.cs" Line="1" Column="1" />
+      <File FileName="Voucher+Paper_Wallet/Info.cs" Line="1" Column="1" />
+      <File FileName="Voucher+Paper_Wallet/Info.resx" Line="1" Column="1" />
+      <File FileName="Voucher+Paper_Wallet/Info.Designer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
