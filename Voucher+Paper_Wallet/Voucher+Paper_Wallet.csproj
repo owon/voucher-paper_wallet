@@ -14,7 +14,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <ReleaseVersion>0.1.20161030</ReleaseVersion>
+    <ReleaseVersion>0.6.20180504-1</ReleaseVersion>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -216,9 +216,6 @@
     <None Include="Resources\Jabo_Paper_Wallet_1200-480.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Classic_Paper_Wallet_1200-480.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5">
       <Visible>False</Visible>
       <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
@@ -234,10 +231,8 @@
     <None Include="Resources\paper.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Owon_world_1200-480.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\donate.jpg" />
+    <None Include="Resources\vpw1.jpg" />
+    <None Include="Resources\vpw2.jpg" />
     <Content Include="xem.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
